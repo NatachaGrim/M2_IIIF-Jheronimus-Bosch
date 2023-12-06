@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3284,
+    "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain/canvas/",
+    "label" : {
+      "none" : [ "haywain" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 103,
+              "height" : 68
+            }, {
+              "width" : 206,
+              "height" : 135
+            }, {
+              "width" : 411,
+              "height" : 270
+            }, {
+              "width" : 821,
+              "height" : 540
+            }, {
+              "width" : 1642,
+              "height" : 1080
+            }, {
+              "width" : 3284,
+              "height" : 2160
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3284,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2160
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3284,
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2160
+        },
+        "target" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain/canvas/"
+      } ]
+    } ],
+    "height" : 2160
+  }, {
     "width" : 876,
     "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/canvas/",
     "label" : {
