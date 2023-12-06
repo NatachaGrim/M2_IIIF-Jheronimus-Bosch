@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 876,
+    "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/canvas/",
+    "label" : {
+      "none" : [ "the_garden_of_earthly_delights_shuttered" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 28,
+              "height" : 30
+            }, {
+              "width" : 55,
+              "height" : 60
+            }, {
+              "width" : 110,
+              "height" : 119
+            }, {
+              "width" : 219,
+              "height" : 238
+            }, {
+              "width" : 438,
+              "height" : 475
+            }, {
+              "width" : 876,
+              "height" : 950
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 876,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 950
+          } ],
+          "format" : "image/jpeg",
+          "width" : 876,
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 950
+        },
+        "target" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/canvas/"
+      } ]
+    } ],
+    "height" : 950
+  }, {
     "width" : 3794,
     "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights/canvas/",
     "label" : {
