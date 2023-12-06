@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1768,
+    "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement/canvas/",
+    "label" : {
+      "none" : [ "the_last_judgement" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 56,
+              "height" : 34
+            }, {
+              "width" : 111,
+              "height" : 67
+            }, {
+              "width" : 221,
+              "height" : 133
+            }, {
+              "width" : 442,
+              "height" : 266
+            }, {
+              "width" : 884,
+              "height" : 531
+            }, {
+              "width" : 1768,
+              "height" : 1062
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1768,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1062
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1768,
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1062
+        },
+        "target" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement/canvas/"
+      } ]
+    } ],
+    "height" : 1062
+  }, {
     "width" : 1601,
     "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain_shuttered/canvas/",
     "label" : {
