@@ -1,0 +1,13 @@
+{
+  "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in NatachaGrim/M2_IIIF-Jheronimus-Bosch project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch.json",
+    "label" : "Jheronimus Bosch's triptychs manifest"
+  } ]
+}
