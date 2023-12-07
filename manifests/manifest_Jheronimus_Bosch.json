@@ -1,0 +1,182 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch.json",
+  "@type" : "sc:Manifest",
+  "label" : "Jheronimus Bosch's triptychs manifest",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Natacha Grim"
+  } ],
+  "description" : [ {
+    "@value" : "This is a set of Jheronimus Bosch's triptychs collected by Natacha Grim.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Copyright Natacha Grim but released as Creative Commons.",
+  "sequences" : [ {
+    "@id" : "http://4e413681-7d6c-4370-a5e3-718a4e43a65f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://5bc64dc5-d9c8-447e-955b-87d1c447ddaf",
+      "@type" : "sc:Canvas",
+      "label" : "The garden of Earthly Delights",
+      "height" : "2160",
+      "width" : "3794",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5f720f8e-b637-4392-8052-41b5871a9791",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2160,
+          "width" : 3794
+        },
+        "on" : "http://5bc64dc5-d9c8-447e-955b-87d1c447ddaf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e9722373-d8d4-42dc-819b-d85a5a5c6aa5",
+      "@type" : "sc:Canvas",
+      "label" : "The garden of Earthly Delights (shuttered)",
+      "height" : 950,
+      "width" : 876,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://72622a61-c076-48b8-be66-4c4c946aba4c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 950,
+          "width" : 876
+        },
+        "on" : "http://e9722373-d8d4-42dc-819b-d85a5a5c6aa5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://84a7f552-29ac-4927-9f19-0ec3ac1f32f2",
+      "@type" : "sc:Canvas",
+      "label" : "Haywain",
+      "height" : 2160,
+      "width" : 3284,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ec1a8488-6af4-4bc3-abab-7f118209e271",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2160,
+          "width" : 3284
+        },
+        "on" : "http://84a7f552-29ac-4927-9f19-0ec3ac1f32f2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://84cd2fbe-7650-4959-b066-532a08593a5c",
+      "@type" : "sc:Canvas",
+      "label" : "Haywain (shuttered)",
+      "height" : 2160,
+      "width" : 1601,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6c0b01b0-650a-4a20-81e3-1f4a2a3eed16",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain_shuttered/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain_shuttered",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2160,
+          "width" : 1601
+        },
+        "on" : "http://84cd2fbe-7650-4959-b066-532a08593a5c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b0a64250-105b-45f2-ba48-d8834ed012ed",
+      "@type" : "sc:Canvas",
+      "label" : "The Last Judgement",
+      "height" : "1062",
+      "width" : "1768",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5d9854a2-66f1-4e0d-9738-71e5bc561f16",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1062,
+          "width" : 1768
+        },
+        "on" : "http://b0a64250-105b-45f2-ba48-d8834ed012ed"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d18d80fd-899d-4f90-9ddd-4e9354f362a2",
+      "@type" : "sc:Canvas",
+      "label" : "The Last Judgement (shuttered)",
+      "height" : "1540",
+      "width" : "1314",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5c90465e-804e-4374-b15a-0f520c692552",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement_shuttered/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement_shuttered",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1540,
+          "width" : 1314
+        },
+        "on" : "http://d18d80fd-899d-4f90-9ddd-4e9354f362a2"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
