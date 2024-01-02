@@ -1,0 +1,357 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch3.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Jheronimus-Boschs-triptychs-manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/7d161000-3ddc-414a-810d-b0e2c93903a9",
+    "type" : "Canvas",
+    "height" : 2160,
+    "width" : 3794,
+    "label" : {
+      "en" : [ "the_garden_of_earthly_delights" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/7d161000-3ddc-414a-810d-b0e2c93903a9/annotation-page/b8eec291-66cf-4651-ae5f-e9f5766d27fa",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/annotation/5e3e344f-7b28-422c-b1d3-3c60f754496a",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/7d161000-3ddc-414a-810d-b0e2c93903a9",
+        "body" : {
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2160,
+          "width" : 3794,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 119,
+              "height" : 68
+            }, {
+              "width" : 238,
+              "height" : 135
+            }, {
+              "width" : 475,
+              "height" : 270
+            }, {
+              "width" : 949,
+              "height" : 540
+            }, {
+              "width" : 1897,
+              "height" : 1080
+            }, {
+              "width" : 3794,
+              "height" : 2160
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3794,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2160,
+            "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/527bf8e7-f5ed-438e-84c5-094677240e23",
+    "type" : "Canvas",
+    "height" : 950,
+    "width" : 876,
+    "label" : {
+      "en" : [ "the_garden_of_earthly_delights_shuttered" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/527bf8e7-f5ed-438e-84c5-094677240e23/annotation-page/9183800a-fac9-4c29-83d8-e91df358e284",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/annotation/606ee503-3c96-4245-9e45-81d79fa1ca36",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/527bf8e7-f5ed-438e-84c5-094677240e23",
+        "body" : {
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 950,
+          "width" : 876,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 28,
+              "height" : 30
+            }, {
+              "width" : 55,
+              "height" : 60
+            }, {
+              "width" : 110,
+              "height" : 119
+            }, {
+              "width" : 219,
+              "height" : 238
+            }, {
+              "width" : 438,
+              "height" : 475
+            }, {
+              "width" : 876,
+              "height" : 950
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 876,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 950,
+            "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_garden_of_earthly_delights_shuttered"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/691d324a-23d7-4cdb-8fb2-6b70a2f8a4cd",
+    "type" : "Canvas",
+    "height" : 2160,
+    "width" : 3284,
+    "label" : {
+      "en" : [ "haywain" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/691d324a-23d7-4cdb-8fb2-6b70a2f8a4cd/annotation-page/c1215942-bc1f-443b-89ec-d1b618b8f315",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/annotation/294b3d37-6510-434f-a60e-593a7423135e",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/691d324a-23d7-4cdb-8fb2-6b70a2f8a4cd",
+        "body" : {
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2160,
+          "width" : 3284,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 103,
+              "height" : 68
+            }, {
+              "width" : 206,
+              "height" : 135
+            }, {
+              "width" : 411,
+              "height" : 270
+            }, {
+              "width" : 821,
+              "height" : 540
+            }, {
+              "width" : 1642,
+              "height" : 1080
+            }, {
+              "width" : 3284,
+              "height" : 2160
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3284,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2160,
+            "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/53cedf15-1251-4bef-8adb-175371188ef4",
+    "type" : "Canvas",
+    "height" : 2160,
+    "width" : 1601,
+    "label" : {
+      "en" : [ "haywain_shuttered" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/53cedf15-1251-4bef-8adb-175371188ef4/annotation-page/6de07fe7-73d2-490c-b870-51f3cd66aee0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/annotation/9cfb1b34-c738-47f0-9051-77452539c813",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/53cedf15-1251-4bef-8adb-175371188ef4",
+        "body" : {
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain_shuttered/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2160,
+          "width" : 1601,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 51,
+              "height" : 68
+            }, {
+              "width" : 101,
+              "height" : 135
+            }, {
+              "width" : 201,
+              "height" : 270
+            }, {
+              "width" : 401,
+              "height" : 540
+            }, {
+              "width" : 801,
+              "height" : 1080
+            }, {
+              "width" : 1601,
+              "height" : 2160
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1601,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain_shuttered",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2160,
+            "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/haywain_shuttered"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/e3c92e6f-e0ff-42d8-9b36-5ed6d1f18149",
+    "type" : "Canvas",
+    "height" : 1062,
+    "width" : 1768,
+    "label" : {
+      "en" : [ "the_last_judgement" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/e3c92e6f-e0ff-42d8-9b36-5ed6d1f18149/annotation-page/a321c8cf-e8af-4b6d-a555-aff84d13cbdf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/annotation/8519185b-ae05-462c-be82-f0e695c5f662",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/e3c92e6f-e0ff-42d8-9b36-5ed6d1f18149",
+        "body" : {
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1062,
+          "width" : 1768,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 56,
+              "height" : 34
+            }, {
+              "width" : 111,
+              "height" : 67
+            }, {
+              "width" : 221,
+              "height" : 133
+            }, {
+              "width" : 442,
+              "height" : 266
+            }, {
+              "width" : 884,
+              "height" : 531
+            }, {
+              "width" : 1768,
+              "height" : 1062
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1768,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1062,
+            "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/63d0bf4d-f727-42e3-9095-172eb056f2ad",
+    "type" : "Canvas",
+    "height" : 1540,
+    "width" : 1314,
+    "label" : {
+      "en" : [ "the_last_judgement_shuttered" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/63d0bf4d-f727-42e3-9095-172eb056f2ad/annotation-page/ce8e1896-c8a5-4f7f-857a-58ce8eadc305",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/annotation/af21755e-9e37-4bbd-b3aa-1ca51c279abd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/3fc17faa-8b57-4e5b-ace8-71210bd46e75/canvas/63d0bf4d-f727-42e3-9095-172eb056f2ad",
+        "body" : {
+          "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement_shuttered/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1540,
+          "width" : 1314,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 42,
+              "height" : 49
+            }, {
+              "width" : 83,
+              "height" : 97
+            }, {
+              "width" : 165,
+              "height" : 193
+            }, {
+              "width" : 329,
+              "height" : 385
+            }, {
+              "width" : 657,
+              "height" : 770
+            }, {
+              "width" : 1314,
+              "height" : 1540
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1314,
+            "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement_shuttered",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1540,
+            "id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/images/the_last_judgement_shuttered"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
