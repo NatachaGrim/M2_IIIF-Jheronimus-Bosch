@@ -10,3 +10,8 @@ _As our aim is to promote Hieronymus Bosch’s triptychs by creating a digital l
 - _Haywain ;_
 - _The Garden of Earthly Delights ;_
 - _The Last Judgment._
+
+Due to unresolved technical problems, only three of the six images could be annotated:
+- _Haywain_ ;
+- Shuttered _Haywain_ ;
+- Shuttered _Garden of Earthly Delights_.
