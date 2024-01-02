@@ -19,5 +19,9 @@
       "en" : [ "Jheronimus-Boschs-triptychs-manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch4.json",
+    "label" : "Jheronimus-Boschs-manifest"
   } ]
 }
