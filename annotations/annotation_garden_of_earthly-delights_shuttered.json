@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #202122; font-family: sans-serif;\">God, wearing a crown similar to a papal tiara<span style=\"color: #202122; font-family: sans-serif;\">&nbsp;(a common convention in Netherlandish painting).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #202122; font-family: sans-serif;\"><strong>God</strong>, wearing a crown similar to a <strong>papal tiara</strong></span><span style=\"color: #202122; font-family: sans-serif;\">&nbsp;(a common <strong>convention</strong> in Netherlandish painting).</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/129739541",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-02T11:47:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704196037667",
+    "dcterms:modified" : "2024-01-02T11:47:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=89,84,79,83"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M89.02045,83.64126h39.40613v0h39.40613v41.61338v41.61338h-39.40613h-39.40613v-41.61338z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2d0330ae-d94d-4169-a58a-9bffa8d441e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9722373-d8d4-42dc-819b-d85a5a5c6aa5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #202122; font-family: sans-serif;\">Ipse dīxit, et facta sunt,&nbsp;<em style=\"color: #202122; font-family: sans-serif;\">For he spoke and it was done (<span style=\"color: #202122; font-family: sans-serif;\">Psalm 33:9).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #202122; font-family: sans-serif;\"><strong>Ipse dīxit, et facta sunt</strong>,&nbsp;</span><em style=\"color: #202122; font-family: sans-serif;\">For he spoke and it was done</em> (<span style=\"color: #202122; font-family: sans-serif;\">Psalm 33:9</span>).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/129739541",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-02T11:49:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704196194267",
+    "dcterms:modified" : "2024-01-02T11:49:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=214,71,120,22"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M213.50929,92.47026h60.15428v0h60.15428v-10.91914v-10.91914h-60.15428h-60.15428v10.91914z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_953f3d11-1c2b-45a7-8d33-dce9f5b3b7d8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9722373-d8d4-42dc-819b-d85a5a5c6aa5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #202122; font-family: sans-serif;\">Triptych's wings closed showing the creation of the world: a&nbsp;<span style=\"color: #202122; font-family: sans-serif;\">still-pristine Earth.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #202122; font-family: sans-serif;\">Triptych's wings <strong>closed</strong> showing the <strong>creation</strong> of the world: a&nbsp;</span><span style=\"color: #202122; font-family: sans-serif;\">still-<strong>pristine</strong> Earth.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/129739541",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-02T11:43:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704195807295",
+    "dcterms:modified" : "2024-01-02T11:44:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=56,61,773,842"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M56.35316,60.68587h386.42658v0h386.42658v420.81877v420.81877h-386.42658h-386.42658v-420.81877z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_93329a6b-f0b8-45fc-8534-bd5f34d5180c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.2974\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9722373-d8d4-42dc-819b-d85a5a5c6aa5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #202122; font-family: sans-serif;\">ipse mandāvit, et creāta sunt,&nbsp;<em style=\"color: #202122; font-family: sans-serif;\">he commanded, and it stood fast&nbsp;(<span style=\"color: #202122; font-family: sans-serif;\">Psalm 33:9).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #202122; font-family: sans-serif;\"><strong>ipse mandāvit, et creāta sunt</strong>,&nbsp;</span><em style=\"color: #202122; font-family: sans-serif;\">he commanded, and it stood fast&nbsp;</em>(<span style=\"color: #202122; font-family: sans-serif;\">Psalm 33:9</span>).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/129739541",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-01-02T11:50:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1704196247536",
+    "dcterms:modified" : "2024-01-02T11:50:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/manifests/manifest_Jheronimus_Bosch.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=524,69,140,21"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M524.28996,89.82156h69.86617v0h69.86617v-10.4777v-10.4777h-69.86617h-69.86617v10.4777z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7b228fcc-c620-4a57-ad75-df8a0a9c7ba3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e9722373-d8d4-42dc-819b-d85a5a5c6aa5"
+    } ]
+  } ],
+  "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_garden_of_earthly-delights_shuttered.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
