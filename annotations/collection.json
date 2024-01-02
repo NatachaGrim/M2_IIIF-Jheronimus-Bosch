@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_garden_of_earthly-delights_shuttered.json", "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_haywain.json" ],
+  "otherContent" : [ "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_garden_of_earthly-delights_shuttered.json", "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_haywain.json", "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_haywain_shuttered.json" ],
   "@id" : "https://NatachaGrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/collection.json",
   "label" : "All annotations loaded in NatachaGrim/M2_IIIF-Jheronimus-Bosch project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
