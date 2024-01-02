@@ -71,6 +71,11 @@
         },
         "on" : "http://e9722373-d8d4-42dc-819b-d85a5a5c6aa5"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_garden_of_earthly-delights_shuttered.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation content about the shuttered Garden of Earthly Delights triptych."
+      } ],
       "related" : ""
     }, {
       "@id" : "http://84a7f552-29ac-4927-9f19-0ec3ac1f32f2",
@@ -97,6 +102,11 @@
         },
         "on" : "http://84a7f552-29ac-4927-9f19-0ec3ac1f32f2"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_haywain.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation content about the open Haywain triptych."
+      } ],
       "related" : ""
     }, {
       "@id" : "http://84cd2fbe-7650-4959-b066-532a08593a5c",
@@ -122,6 +132,11 @@
           "width" : 1601
         },
         "on" : "http://84cd2fbe-7650-4959-b066-532a08593a5c"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://natachagrim.github.io/M2_IIIF-Jheronimus-Bosch/annotations/annotation_haywain_shuttered.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotation content about the shuttered Haywain triptych."
       } ],
       "related" : ""
     }, {
