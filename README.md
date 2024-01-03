@@ -15,6 +15,6 @@ _As our aim is to promote Jheronimus Bosch’s triptychs by creating a digital l
 - _[The Last Judgment](images/the_last_judgement_shuttered/full/full/0/default.jpg) (closed)._
 
 Due to unresolved technical problems, only three of the six images could be annotated:
-- _[The Haywain Triptych](images/haywain/full/full/0/default.jpg)_ ;
-- _[The Haywain Triptych](images/haywain_shuttered/full/full/0/default.jpg)_ (closed) ;
-- _[The Garden of Earthly Delights](images/the_garden_of_earthly_delights_shuttered/full/full/0/default.jpg)_.
+- [The Haywain Triptych](images/haywain/full/full/0/default.jpg) ;
+- [The Haywain Triptych](images/haywain_shuttered/full/full/0/default.jpg) (closed) ;
+- [The Garden of Earthly Delights](images/the_garden_of_earthly_delights_shuttered/full/full/0/default.jpg).
